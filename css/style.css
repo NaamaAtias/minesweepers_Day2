@@ -1,0 +1,39 @@
+*{box-sizing: border-box;}
+
+body {
+    text-align: center;
+    background-color: black;
+    color:blanchedalmond;
+}
+
+h2 {
+    width: 200px;
+    height:30px;
+    margin:auto;
+    margin-bottom: 15px;
+    background-color: rgb(69, 127, 129);
+    border-color: floralwhite;
+    border-style: solid;
+}
+
+table {
+    margin: auto;
+    background-color: cadetblue;
+    margin-top: 50px;
+}
+
+td {
+    height:35px; 
+    width:35px;
+    text-align:center;
+}
+
+button {
+    height: 35px;
+    width: 75px;
+    background-color: floralwhite;
+    color:rgb(69, 127, 129);
+    font: bold;
+    font-size: 15px;
+    border-radius: 10%;
+}
